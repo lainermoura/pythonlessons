@@ -19,3 +19,5 @@ elif m == 3 and j == 1:
     print(emoji.emojize('Você ganhou! Parabéns! :raised_hand: vence :victory_hand: | Quer tentar a sorte novamente?'))
 elif m == 3 and j == 2:
     print(emoji.emojize('Ganhei! :victory_hand: vence :raised_hand:| Deseja tentar novamente?'))
+
+    CORRIGIR
